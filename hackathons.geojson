@@ -73,6 +73,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.625913,
+                    51.453213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Rathaus Moers",
+                "title": "2. Hackday am Niederrhein",
+                "url": "http://hackday.moers.de/",
+                "when": "2016-04-09 - 2016-04-10"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.144964,
                     52.5072111
                 ],
