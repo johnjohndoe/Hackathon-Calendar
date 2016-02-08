@@ -39,8 +39,9 @@ are in the right order for being rendered. You can check the preview at GitHub.
 
 ## Reference
 
-Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) repository.
+Inspired by the [Hackathon-Calendar][hackathon-calendar] repository.
 
 
 
+[hackathon-calendar]: https://github.com/japacible/Hackathon-Calendar
 [hackathon-map]: https://github.com/johnjohndoe/awesome-hackathons-in-germany/blob/master/hackathons.geojson
