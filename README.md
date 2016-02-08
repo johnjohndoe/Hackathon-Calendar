@@ -7,7 +7,34 @@ This repository tracks upcoming hackathons within Germany.
 
 To add a hackathon to this list, please submit a clean **pull request**.
 Keep hackathons organized by start date and then alphabetically.
-Make sure, coordinates are in the right order for being rendered.
+
+
+### Format
+
+All that is needed for a new hackathon item to be added is a proper GeoJSON
+feature block such as this one:
+
+``` json
+{
+    "geometry": {
+        "coordinates": [
+            13.33,
+            52.44
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "location": "Berlin, Secret hacker space",
+        "title": "Secret hackathon",
+        "url": "https://example.com/hackathon",
+        "when": "2015-31-01 - 2016-01-01"
+    },
+    "type": "Feature"
+}
+```
+
+Please lookup geographic coordinates for the location address. Make sure, coordinates
+are in the right order for being rendered. You can check the preview at GitHub.
 
 
 ## Reference
