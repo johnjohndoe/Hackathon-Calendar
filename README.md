@@ -1,6 +1,6 @@
 # Upcoming hackathons in Germany
 
-This repository tracks upcoming hackathons within Germany.
+This repository tracks [upcoming hackathons within Germany][hackathon-map].
 
 
 ## Contributions
@@ -40,3 +40,7 @@ are in the right order for being rendered. You can check the preview at GitHub.
 ## Reference
 
 Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) repository.
+
+
+
+[hackathon-map]: https://github.com/johnjohndoe/awesome-hackathons-in-germany/blob/master/hackathons.geojson
