@@ -73,6 +73,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    8.7039524,
+                    50.1254011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Frankfurt, Die Zentrale Coworking",
+                "title": "#HACKFRANKFURT",
+                "url": "http://hackffm.org",
+                "when": "2016-03-04 - 2016-03-06"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     6.625913,
                     51.453213
                 ],
