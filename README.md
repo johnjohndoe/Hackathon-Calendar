@@ -27,7 +27,7 @@ feature block such as this one:
         "location": "Berlin, Secret hacker space",
         "title": "Secret hackathon",
         "url": "https://example.com/hackathon",
-        "when": "2015-31-01 - 2016-01-01"
+        "when": "2015-12-31 - 2016-01-01"
     },
     "type": "Feature"
 }
