@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.3543037,
-                    52.4818551
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "Berlin, openBerlin Cisco Innovation Center, c/o EUREF-Campus 3 Magazingebäude",
-                "title": "Cisco DevNet Hackathon",
-                "url": "http://hackathon.cisco.com/event/codingcamp-Berlin-2016",
-                "when": "2016-02-13 - 2016-02-14"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     9.9881225,
                     53.5762601
                 ],
