@@ -73,6 +73,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    8.5904954,
+                    50.056638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "House of Logistics and Mobility (HOLM) - Bessie-Coleman-Straße 7, 60549 Frankfurt am Main",
+                "title": "Hackathon@HOLM 2016 'Gateway FRA'",
+                "url": "https://www.eventbrite.com/e/hackathonholm-2016-gateway-fra-tickets-20917130701",
+                "when": "2016-03-04 - 2016-03-06"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     6.625913,
                     51.453213
                 ],
