@@ -10,22 +10,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.7788013,
-                    51.22628
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "Haus der Universität, Schadowplatz 14, 40212 Düsseldorf",
-                "title": "NRWHackathon, Hack für Deine Bildung! Open Data Anwendungen für NRW",
-                "url": "https://open.nrw/de/content/5000eu-fuer-die-beste-app-idee-nrwhackathon",
-                "when": "2016-02-27 10:00-22:00"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.3305127,
                     52.4445379
                 ],
