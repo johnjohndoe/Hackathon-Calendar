@@ -1,3 +1,4 @@
+
 {
     "crs": {
         "properties": {
@@ -6,22 +7,6 @@
         "type": "name"
     },
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    9.9881225,
-                    53.5762601
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "Hamburg",
-                "title": "SehenHörenTeilen - der Hackathon von NDR und ARD Aktuell (Tagesschau)",
-                "url": "https://www.eventbrite.com/e/sehenhorenteilen-der-hackathon-von-ndr-und-ard-aktuell-tagesschau-tickets-20415513350",
-                "when": "2016-02-25 - 2016-02-27"
-            },
-            "type": "Feature"
-        },
         {
             "geometry": {
                 "coordinates": [
