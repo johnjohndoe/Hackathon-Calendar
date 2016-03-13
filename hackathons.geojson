@@ -26,6 +26,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.388156,
+                    52.517901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "BASE_camp Berlin, Mittelstraße 51, 10117 Berlin",
+                "title": "2nd HR Hackathon",
+                "url": "http://www.hrhackathon.net",
+                "when": "2016-04-16 - 2016-04-17"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.144964,
                     52.5072111
                 ],
