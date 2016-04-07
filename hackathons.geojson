@@ -10,22 +10,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.3909849,
-                    52.505234
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "Rainmaking Loft Berlin, Charlottenstraße 2, 10969 Berlin",
-                "title": "Food{hacks} by Hackerstolz",
-                "url": "http://hackevents.co/hackathon/germany/berlin/938-food-hacks-by-hackerstolz",
-                "when": "2016-04-01 - 2016-04-03"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     8.2599684,
                     50.0033337
                 ],
