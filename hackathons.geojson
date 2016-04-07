@@ -10,22 +10,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    8.2599684,
-                    50.0033337
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "Bonifazius-Türme / Turm A",
-                "title": "Junges Angebot von ARD und ZDF - Housewarming-Hackathon",
-                "url": "http://www.jungesangebotvonardundzdf.de/hackathon-2016/",
-                "when": "2016-04-02 - 2016-04-03"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     6.625913,
                     51.453213
                 ],
