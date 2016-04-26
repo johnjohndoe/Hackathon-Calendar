@@ -10,6 +10,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.401801,
+                    52.519909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Karl-Liebknecht Strasse 5 , 10178 Berlin",
+                "title": "#dubhack16 - Hackathon @ Dubsmash",
+                "url": "https://www.eventbrite.com/e/dubhack16-hackathon-dubsmash-registration-24339631493",
+                "when": "2016-05-21 - 2016-05-22"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.3810804,
                     52.5299979
                 ],
