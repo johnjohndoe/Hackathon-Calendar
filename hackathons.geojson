@@ -10,6 +10,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.390261,
+                    52.4965527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Amerika-Gedenkbibliothek, Salon",
+                "title": "ZLB Hackathon",
+                "url": "https://www.facebook.com/events/1699245053686935/",
+                "when": "2016-05-06"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.401801,
                     52.519909
                 ],
