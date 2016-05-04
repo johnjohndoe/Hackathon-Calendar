@@ -58,6 +58,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.38374000,
+                    52.52021800
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Schiffbauerdamm, zwischen Bahnbrücke Friedrichstraße und Marschallbrücke",
+                "title": "Ozeanwerkstatt Berlin",
+                "url": "https://ms-wissenschaft.de/ausstellung/veranstaltungen/ozeanwerkstatt-berlin/",
+                "when": "2016-06-04 - 2016-06-05"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.3810804,
                     52.5299979
                 ],
