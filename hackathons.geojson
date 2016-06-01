@@ -85,6 +85,22 @@
                 "when": "2016-06-24 - 2016-06-26"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.462029,
+                    52.512565
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Old Smithy's Dizzle, Mainzer Str. 16, 10247 Berlin, Germany",
+                "title": "POST /bank/hackathon/berlin",
+                "url": "https://www.eventbrite.de/e/post-bankhackathonberlin-registrierung-24771928505",
+                "when": "2016-09-30 - 2016-10-02"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
