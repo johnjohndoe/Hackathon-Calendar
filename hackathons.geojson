@@ -41,6 +41,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.1216113,
+                    52.3922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "August-Bebel-Str. 88, 14482 Potsdam",
+                "title": "HackHPI",
+                "url": "http://hackhpi.org",
+                "when": "2016-06-11 - 2016-06-12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.4173964,
                     52.5141787
                 ],
