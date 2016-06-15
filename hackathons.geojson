@@ -25,6 +25,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.4070244,
+                    52.5032717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "CLB Berlin, Aufbau Haus am Moritzplatz, Prinzenstraße 84.2, 10969 Berlin",
+                "title": "Popathon Berlin",
+                "url": "http://popathon.org/berlin/",
+                "when": "2016-06-17 - 2016-06-18"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.409478,
                     52.520867
                 ],
