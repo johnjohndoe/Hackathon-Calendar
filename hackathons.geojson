@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.3810804,
-                    52.5299979
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "Silicon Allee • Berlin-Mitte",
-                "title": "Spacehack: The Refugee Journey",
-                "url": "http://www.startupeuropesummit.com/hackathon",
-                "when": "2016-06-04 - 2016-06-05"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.1216113,
                     52.3922
                 ],
