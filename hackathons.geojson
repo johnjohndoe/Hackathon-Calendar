@@ -9,6 +9,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    7.5935085,
+                    51.9690257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Am Institut für Geoinformatik, Heisenbergstr. 2, 48149 Münster",
+                "title": "senseBox Hackathon 2016",
+                "url": "https://sensebox.de/hackathon/",
+                "when": "2016-08-21 - 2016-08-23"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.462029,
                     52.512565
                 ],
