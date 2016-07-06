@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.409478,
-                    52.520867
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "tba, Berlin",
-                "title": "Cyclehack Berlin",
-                "url": "http://cyclehackberlin.de",
-                "when": "2016-06-24 - 2016-06-26"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.462029,
                     52.512565
                 ],
