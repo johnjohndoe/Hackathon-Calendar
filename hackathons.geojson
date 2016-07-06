@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.4078723,
-                    52.5251325
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "location": "FUSION FACTORY, EuphoriaUmbrella GmbH, Rosa-Luxemburg-Straße 17, 10178 Berlin",
-                "title": "AngelHack Berlin 2016",
-                "url": "http://angelhack.com/angelhack-berlin-2016",
-                "when": "2016-06-18 - 2016-06-19"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.409478,
                     52.520867
                 ],
