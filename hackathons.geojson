@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.392701,
-                    52.5055927
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "Penthouse Unternehmerclub, Markgrafenstraße 14, 10969 Berlin",
-                "title": "Hack like a girl! Hackathon: Health & Fitness",
-                "url": "http://www.hacklikeagirl.co",
-                "when": "2016-10-14 - 2016-10-16"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.3791313,
                     52.49846
                 ],
