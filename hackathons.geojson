@@ -21,6 +21,22 @@
                 "when": "2016-10-29"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3848557,
+                    52.5144272
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Alexander von Humboldt Institut für Internet und Gesellschaft, Französische Straße 9, 10117 Berlin, Germany",
+                "title": "TV Hackday 2016",
+                "url": "http://2016.tvhackday.com",
+                "when": "2016-11-05 - 2016-11-06"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
