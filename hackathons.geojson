@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.3530431,
-                    52.5451157
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "Beuth University of Applied Sciences Berlin, Luxemburger Straße 10, 13353 Berlin",
-                "title": "Galileo Hackathon",
-                "url": "https://www.gsa.europa.eu/meet-us-wherecamp-berlin-first-galileo-hackathon-3-4-november-2016",
-                "when": "2016-11-03 - 2016-11-04"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.3848557,
                     52.5144272
                 ],
