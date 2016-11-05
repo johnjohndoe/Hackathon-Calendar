@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.3791313,
-                    52.49846
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "Wikimedia, Tempelhofer Ufer 23-24, 10963 Berlin",
-                "title": "Ladies that FOSS",
-                "url": "https://www.wikimedia.de/wiki/Ladies_that_FOSS/Code_of_Conduct",
-                "when": "2016-10-29"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.3530431,
                     52.5451157
                 ],
