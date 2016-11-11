@@ -73,6 +73,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.4099563,
+                    52.502563
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Betahaus, Prinzessinnenstraße 19-20, 10969 Berlin",
+                "title": "THack Berlin Travel Hackathon",
+                "url": "https://www.eventbrite.com/e/thack-berlin-travel-hackathon-tickets-28658605661",
+                "when": "2016-12-02 - 2016-12-04"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.4195008,
                     52.5138981
                 ],
