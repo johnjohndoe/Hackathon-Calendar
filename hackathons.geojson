@@ -6,22 +6,6 @@
         "type": "name"
     },
     "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    13.4331066,
-                    52.5004719
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "Spielfeld Digital Hub, Skalitzer Str. 85/86. 10993 Berlin",
-                "title": "Mobility{Hacks}",
-                "url": "http://www.mobility-hacks.de",
-                "when": "2016-12-02 - 2016-12-04"
-            },
-            "type": "Feature"
-        }
     ],
     "type": "FeatureCollection"
 }
