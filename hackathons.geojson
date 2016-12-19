@@ -9,6 +9,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.3909849,
+                    52.505234
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "c/o Rainmaking Loft Berlin UG, Charlottenstraße 02, 10969 Berlin",
+                "title": "Ticketmaster Berlin Hackathon",
+                "url": "https://www.universe.com/events/ticketmaster-berlin-hackathon-tickets-FKRS6P",
+                "when": "2017-01-28"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     11.4017528,
                     48.1548256
                 ],
