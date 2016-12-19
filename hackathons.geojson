@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.3883379,
-                    52.5165936
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "Microsoft Deutschland GmbH, Unter den Linden 17, 10117 Berlin",
-                "title": "Neue Nähe Hackathon",
-                "url": "https://www.eventbrite.de/e/neue-nahe-der-hackathon-fur-mehr-inklusion-und-teilhabe-tickets-28453808106",
-                "when": "2016-11-25 - 2016-11-27"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.378447,
                     52.529489
                 ],
