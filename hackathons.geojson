@@ -25,6 +25,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    13.4291491,
+                    52.5124602
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "You is Now, Andreasstraße 10, 10243 Berlin",
+                "title": "Lady Problems Hackathon",
+                "url": "https://www.eventbrite.com/e/lady-problems-hackathon-berlin-tickets-28517835614",
+                "when": "2017-01-28 - 2017-01-29"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     11.4017528,
                     48.1548256
                 ],
