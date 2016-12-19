@@ -6,6 +6,22 @@
         "type": "name"
     },
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    11.4017528,
+                    48.1548256
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "München",
+                "title": "Coding Dürer",
+                "url": "http://codingdurer.de",
+                "when": "2017-03-13 - 2017-03-17"
+            },
+            "type": "Feature"
+        }
     ],
     "type": "FeatureCollection"
 }
