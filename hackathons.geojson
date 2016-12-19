@@ -9,22 +9,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    13.4199113,
-                    52.49623
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "TLGG GmbH, Paul-Lincke-Ufer 39/40, 10999 Berlin",
-                "title": "bothack.berlin",
-                "url": "http://bothack.berlin",
-                "when": "2016-11-18 - 2016-11-20"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     13.3883379,
                     52.5165936
                 ],
