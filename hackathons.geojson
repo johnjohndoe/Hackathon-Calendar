@@ -6,6 +6,22 @@
         "type": "name"
     },
     "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3883379,
+                    52.5165968
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Unter den Linden 17, 10117 Berlin",
+                "title": " Bundesverwaltungsamt, Verwaltung im digitalen Zeitalter",
+                "url": "https://www.facebook.com/Bundesverwaltungsamt/photos/gm.186189491901169/1337626192994696/?type=3",
+                "when": "2017-06-09 - 2017-06-10"
+            },
+            "type": "Feature"
+        }
     ],
     "type": "FeatureCollection"
 }
