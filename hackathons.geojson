@@ -85,22 +85,6 @@
                 "when": "2017-10-27 - 2017-10-29"
             },
             "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    13.450001,
-                    52.517024
-                ],
-            "type": "Point"
-            },
-            "properties": {
-                "location": "Kosmos Cinema, Karl-Max-Allee 131a, 10243 Berlin",
-                "title": "Intra.NET Reloaded Hackathon",
-                "url": "http://intranet-reloaded-berlin.com/en/hackathon/",
-                "when": "2018-04-19 - 2018-04-20"
-            },
-            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
