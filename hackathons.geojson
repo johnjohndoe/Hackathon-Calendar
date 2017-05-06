@@ -32,7 +32,7 @@
             },
             "properties": {
                 "location": "Marsilius-Arkaden, Im Neuenheimer Feld 130, 69120 Heidelberg",
-                "title": "{LIFE SCIENCE} MEETS IT Hackathon",
+                "title": "LIFE SCIENCE MEETS IT Hackathon",
                 "url": "http://www.lifesciencemeetsit.eu/",
                 "when": "2017-05-19 - 2017-05-21"
             },
@@ -101,7 +101,7 @@
                 "when": "2018-04-19 - 2018-04-20"
             },
             "type": "Feature"
-        },
+        }
     ],
     "type": "FeatureCollection"
 }
