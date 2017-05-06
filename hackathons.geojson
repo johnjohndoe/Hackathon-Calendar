@@ -25,6 +25,22 @@
         {
             "geometry": {
                 "coordinates": [
+                    8.670735,
+                    49.412817
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Marsilius-Arkaden, Im Neuenheimer Feld 130, 69120 Heidelberg",
+                "title": "{LIFE SCIENCE} MEETS IT Hackathon",
+                "url": "http://www.lifesciencemeetsit.eu/",
+                "when": "2017-05-19 - 2017-05-21"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     13.3883379,
                     52.5165968
                 ],
@@ -37,7 +53,55 @@
                 "when": "2017-06-09 - 2017-06-10"
             },
             "type": "Feature"
-        }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.647564,
+                    50.109780
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Mercedes-Benz Festival Hall, Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main",
+                "title": "HACK.IAA @ ME CONVENTION",
+                "url": "https://www.digitallife-campus.com/en/hack-iaa-2017",
+                "when": "2017-09-15 - 2017-09-16"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.212561,
+                    48.815397
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Phoenixhalle im Römerkastell, Naststr. 43 – 45, 70376 Stuttgart",
+                "title": "Hackathon Stuttgart",
+                "url": "http://www.hackathon-stuttgart.de/",
+                "when": "2017-10-27 - 2017-10-29"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.450001,
+                    52.517024
+                ],
+            "type": "Point"
+            },
+            "properties": {
+                "location": "Kosmos Cinema, Karl-Max-Allee 131a, 10243 Berlin",
+                "title": "Intra.NET Reloaded Hackathon",
+                "url": "http://intranet-reloaded-berlin.com/en/hackathon/",
+                "when": "2018-04-19 - 2018-04-20"
+            },
+            "type": "Feature"
+        },
     ],
     "type": "FeatureCollection"
 }
